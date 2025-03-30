@@ -1,3 +1,3 @@
 # Visitor_Design_Pattern
 
-![image](https://github.com/user-attachments/assets/7b53d9b9-12f2-4006-8cb6-b6b1b4e6bedb)
+![image](https://github.com/user-attachments/assets/da68d5d8-3839-4823-a2c7-e9a0cee1b143)
